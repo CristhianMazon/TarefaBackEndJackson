@@ -1,0 +1,18 @@
+# Dependências do projeto
+node_modules/
+
+# Arquivos de variáveis de ambiente (contém senhas do banco e a chave secreta do JWT)
+.env
+
+# Logs do sistema e do NPM
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Pastas de configuração do VS Code
+.vscode/
