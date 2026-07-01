@@ -281,7 +281,6 @@ src/
 ├── routes/
 ├── seeders/
 ├── services/
-├── utils/
 └── app.js
 ```
 
